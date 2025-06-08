@@ -1,5 +1,5 @@
 #About this Project 
-![Game Screenshot](Guess_Game.PNG)
+![Game Screenshot](Ticket_park_sales.PNG)
 
 import tkinter as tk
 from tkinter import messagebox, ttk # ttk for modern widgets like Treeview
