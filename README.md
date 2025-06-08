@@ -1,3 +1,6 @@
+#About this Project 
+![Game Screenshot](Guess_Game.PNG)
+
 import tkinter as tk
 from tkinter import messagebox, ttk # ttk for modern widgets like Treeview
 
